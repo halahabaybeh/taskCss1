@@ -1,0 +1,10 @@
+.service{
+    display: inline-block;
+    width: 20%;
+}
+.services{
+    text-align: center;
+}
+i{
+    color: coral;
+}
